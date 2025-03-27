@@ -2,7 +2,7 @@
   "name": "impostor-game",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://hugoe.github.io/impostor-game",
+  "homepage": "/",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
